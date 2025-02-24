@@ -1,7 +1,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hobanghann&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hobanghann&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=vue" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
